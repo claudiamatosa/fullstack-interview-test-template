@@ -1,8 +1,7 @@
 # Javascript interview test template
 
-## Background
-
 Write something about your company here.
+
 
 ## Requirements
 
