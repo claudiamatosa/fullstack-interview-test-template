@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fb95e7ee-728a-4892-b43d-5da818aeadab",
+    "name": "Homer Simpson",
+    "level": 3,
+    "gems": 10
+  },
+  {
+    "id": "4f4fbbc7-ea6d-4cb0-abd0-c770db7beede",
+    "name": "Shaun the Sheep",
+    "level": 15,
+    "gems": 1535
+  }
+]
